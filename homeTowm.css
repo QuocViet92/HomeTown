@@ -11,7 +11,7 @@ img {
 }
 #header{
     height: 30%;
-    background-image: url('https://thamhiemmekong.com/wp-content/uploads/2020/04/nhahatcaovanlau2.jpg');
+    background-image: url('background.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
