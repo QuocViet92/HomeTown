@@ -58,6 +58,7 @@ img {
 }
 .guide{
     padding: 50px 0;
+    box-sizing: border-box  ;
 }
 .card{
     width: 40%;
@@ -90,8 +91,6 @@ img {
    .card{
     width: 100%;
     gap: 10px;
-   }
-   .guide{
     box-sizing: border-box;
    }
     
